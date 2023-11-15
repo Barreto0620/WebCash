@@ -74,7 +74,7 @@ git push origin sua-feature
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT.
+Este projeto está licenciado sob a Licença MIT[https://github.com/Barreto0620/WebCash/blob/82066028ac26314c2ccf338576323e403a26e969/SECURITY.md].
 
 ## Contato
 - LinkedIn: www.linkedin.com/in/gabriel-barreto-oliveira
