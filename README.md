@@ -76,6 +76,10 @@ git push origin sua-feature
 
 Este projeto está licenciado sob a Licença MIT.
 
+## Contato
+- LinkedIn: www.linkedin.com/in/gabriel-barreto-oliveira
+- Email: gabrielprozds@email.com
+
 ## Agradecimentos
 
 Agradecemos por usar e contribuir para o projeto **WebCash**! Esperamos que esta aplicação seja útil e proporcione uma experiência de compra agradável e interativa para os usuários. Se você tiver alguma dúvida ou comentário, sinta-se à vontade para entrar em contato conosco.
