@@ -9,9 +9,9 @@
 }
 
 :root {
-    --color-background: #fffdf7;
-    --color-black: #212121;
-    --color-black-heavy: #000;
+    --color-background: #000000;
+    --color-black: #ffffff;
+    --color-black-heavy: #ffffff;
     --color-text: #4f4f4f;
     --color-text-out: #90908e;
     --color-primary: #ffbf00;
